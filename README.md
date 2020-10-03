@@ -5,8 +5,7 @@
 ```javascript
 const sandorBiba = {
    pronouns: "he" | "him",
-   bio: ["I used to be an HR Professional, which I absolutely enjoyed, but now 
-   I haved decided to fulfill my childhood dream of becoming a programmer."],
+   bio: ["I used to be an HR Professional, which I absolutely enjoyed, but now I haved decided to fulfill my childhood dream of becoming a programmer."],
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {

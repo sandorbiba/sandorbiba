@@ -17,9 +17,9 @@ const sandorBiba = {
       },
       databases: ["MongoDB"],
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["Open for job opportunities."],
    challenge: "I'm working towards being able to run a marathon.",
-   funFact: "I'm an official speedcuber in World Cube Association (WCA)"
+   funFact: "I'm an official speedcuber in World Cube Association (WCA)."
 };
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandorbiba&show_icons=true)

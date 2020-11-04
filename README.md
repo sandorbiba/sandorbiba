@@ -13,11 +13,10 @@ const sandorBiba = {
          css: ["Tailwind CSS", "Styled-Components", "Bootstrap", "Material UI"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "NestJS"],
       },
       databases: ["MongoDB"],
    },
-   currentOccupation: ["Open for job opportunities."],
    challenge: "I'm working towards being able to run a marathon.",
    funFact: "I'm an official speedcuber in World Cube Association (WCA)."
 };

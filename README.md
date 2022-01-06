@@ -15,7 +15,7 @@ const sandorBiba = {
       backEnd: {
          js: ["Node", "Express", "NestJS"],
       },
-      databases: ["MongoDB"],
+      databases: ["MongoDB", "SQL"],
    },
    challenge: "I'm working towards being able to run a marathon.",
    funFact: "I'm an official speedcuber in World Cube Association (WCA)."

@@ -9,7 +9,7 @@ const sandorBiba = {
    code: [Javascript, Typescript, Go, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "React Native"],
          css: ["Tailwind CSS", "Styled-Components", "Bootstrap", "Material UI"]
       },
       backEnd: {

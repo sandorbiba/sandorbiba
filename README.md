@@ -6,7 +6,7 @@
 const sandorBiba = {
    pronouns: "he" | "him",
    bio: ["I used to be an HR Professional, which I absolutely enjoyed, but now I haved decided to fulfill my childhood dream of becoming a programmer."],
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, Go, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -14,6 +14,7 @@ const sandorBiba = {
       },
       backEnd: {
          js: ["Node", "Express", "NestJS"],
+         go: ["Tiger Tonic"]
       },
       databases: ["MongoDB", "SQL"],
    },
